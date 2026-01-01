@@ -46,7 +46,6 @@ return {
         "prettier",
 
         "stylua",
-        "bicep-lsp",
         "html-lsp",
         "css-lsp",
         "eslint-lsp",
